@@ -26,7 +26,7 @@ package com.taobao.idlefish.flutterboost;
 import android.content.Context;
 import android.graphics.Bitmap;
 import android.os.Build;
-import android.support.v4.view.ViewCompat;
+import androidx.core.view.ViewCompat;
 import android.text.TextUtils;
 import android.util.AttributeSet;
 import android.view.SurfaceHolder;
